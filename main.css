@@ -1,0 +1,52 @@
+.dropdown-menu{
+  
+}
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    
+    
+}
+
+.full-div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+.part1{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.part2{
+  
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    width: 170px;
+    height: 50px;
+}
+.btnD{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-left: 0;
+}
+.btnD img{
+    width: 120px;
+    margin-top: -30px;
+    display: none;
+}
